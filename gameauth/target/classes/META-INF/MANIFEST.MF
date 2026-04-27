@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: dropwizard-auth-5.0.0.jar dropwizard-jersey-5.0.0.jar jersey
+ -metainf-services-3.1.11.jar jersey-hk2-3.1.11.jar hk2-locator-3.0.6.ja
+ r javassist-3.30.2-GA.jar metrics-jersey3-4.2.37.jar guava-33.4.8-jre.j
+ ar failureaccess-1.0.3.jar listenablefuture-9999.0-empty-to-avoid-confl
+ ict-with-guava.jar j2objc-annotations-3.0.0.jar jackson-core-2.20.0.jar
+  jackson-jakarta-rs-json-provider-2.20.0.jar jackson-jakarta-rs-base-2.
+ 20.0.jar jackson-module-jakarta-xmlbind-annotations-2.20.0.jar jakarta.
+ xml.bind-api-4.0.4.jar jakarta.activation-api-2.1.4.jar hk2-api-3.0.6.j
+ ar hk2-utils-3.0.6.jar aopalliance-repackaged-3.0.6.jar jersey-containe
+ r-servlet-3.1.11.jar jersey-container-servlet-core-3.1.11.jar jetty-io-
+ 12.1.1.jar metrics-core-4.2.37.jar metrics-caffeine-4.2.37.jar caffeine
+ -3.2.2.jar error_prone_annotations-2.41.0.jar jspecify-1.0.0.jar jakart
+ a.annotation-api-2.1.1.jar jakarta.ws.rs-api-3.1.0.jar jakarta.inject-a
+ pi-2.0.1.jar jersey-common-3.1.11.jar osgi-resource-locator-1.0.3.jar j
+ ersey-server-3.1.11.jar slf4j-api-2.0.17.jar jetty-security-12.1.1.jar 
+ jetty-server-12.1.1.jar jetty-http-12.1.1.jar jakarta.servlet-api-6.0.0
+ .jar jetty-ee10-servlet-12.1.1.jar jetty-session-12.1.1.jar dropwizard-
+ client-5.0.0.jar dropwizard-lifecycle-5.0.0.jar dropwizard-util-5.0.0.j
+ ar dropwizard-validation-5.0.0.jar expressly-5.0.0.jar jackson-databind
+ -2.20.0.jar jersey-client-3.1.11.jar httpclient5-5.5.jar httpcore5-h2-5
+ .3.4.jar httpcore5-5.3.5.jar metrics-httpclient5-4.2.37.jar dropwizard-
+ core-5.0.0.jar dropwizard-jackson-5.0.0.jar jackson-datatype-guava-2.20
+ .0.jar jackson-datatype-jsr310-2.20.0.jar jackson-datatype-jdk8-2.20.0.
+ jar jackson-module-parameter-names-2.20.0.jar jackson-module-blackbird-
+ 2.20.0.jar dropwizard-configuration-5.0.0.jar jackson-dataformat-yaml-2
+ .20.0.jar snakeyaml-2.4.jar commons-text-1.14.0.jar commons-lang3-3.18.
+ 0.jar dropwizard-logging-5.0.0.jar metrics-logback-4.2.37.jar jul-to-sl
+ f4j-2.0.17.jar logback-core-1.5.18.jar logback-throttling-appender-1.5.
+ 3.jar log4j-over-slf4j-2.0.17.jar jcl-over-slf4j-2.0.17.jar dropwizard-
+ metrics-5.0.0.jar dropwizard-servlets-5.0.0.jar dropwizard-jetty-5.0.0.
+ jar dropwizard-health-5.0.0.jar metrics-annotation-4.2.37.jar metrics-j
+ etty12-4.2.37.jar metrics-jetty12-ee10-4.2.37.jar metrics-jvm-4.2.37.ja
+ r metrics-jmx-4.2.37.jar metrics-jakarta-servlets-4.2.37.jar metrics-js
+ on-4.2.37.jar profiler-1.1.1.jar metrics-healthchecks-4.2.37.jar dropwi
+ zard-request-logging-5.0.0.jar logback-access-common-2.0.6.jar logback-
+ access-jetty12-2.0.6.jar logback-classic-1.5.18.jar argparse4j-0.9.0.ja
+ r jetty-util-12.1.1.jar jetty-setuid-jna-2.0.3.jar jna-jpms-5.14.0.jar 
+ jersey-bean-validation-3.1.11.jar jakarta.el-api-5.0.1.jar jackson-anno
+ tations-2.20.jar jakarta.validation-api-3.0.2.jar hibernate-validator-8
+ .0.3.Final.jar jboss-logging-3.6.1.Final.jar classmate-1.7.0.jar
+Main-Class: com.gamingroom.gameauth.GameAuthApplication
+Created-By: Maven Integration for Eclipse
+
